@@ -12,7 +12,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        <h1 style={{ color: 'black' }}>Color Switcher</h1>
+        <h1 style={{ color: "black" }}>Color Switcher</h1>
         <div id="color-panel" className="black"></div>
         <div className="button-container">
           <button className="red"></button>
