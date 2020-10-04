@@ -11,7 +11,7 @@ As always...
 
 ## Instructions
 
-The finished app should switch the color of the `#color-panel` box to the color represented by each button, and change the color of the text to the value of the `input` color palette, such as [this](deployedlink), 
+The finished app should switch the color of the `#color-panel` box to the color represented by each button, and change the color of the text to the value of the `input` color palette, such as [this](http://wrathful-rest.surge.sh/).
 
 #### Part 1: Color Panel
 
